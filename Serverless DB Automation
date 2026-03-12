@@ -1,0 +1,15 @@
+Serverless Database Automation:
+
+Use case: Run database tasks without managing servers.
+
+Example: Python functions triggered by events.
+
+Cloud services:
+
+    Amazon Web Services Lambda
+    Microsoft Azure Functions
+
+Example tasks
+    clean old records
+    archive logs
+    generate reports
