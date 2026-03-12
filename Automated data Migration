@@ -1,0 +1,11 @@
+Automated Data Migration (On-Premise → Cloud)
+
+Use case: Company moving database to cloud.
+Python scripts:
+  Extract on-prem database data
+  Transform schema
+  Load into cloud database
+
+Example migration:
+Local MySQL → Amazon Web Services RDS
+SQL Server → Google Cloud SQL
