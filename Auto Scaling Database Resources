@@ -1,0 +1,12 @@
+Auto Scaling Database Resources
+Use case: Increase database resources automatically when traffic increases.
+Example scenario:
+    E-commerce sale
+    Database load increases
+    Python automation script triggers scaling
+Cloud services:
+    Amazon Web Services RDS
+    Microsoft Azure Database
+    Python interacts with cloud APIs to:
+    Increase instance size
+    Add read replicas
