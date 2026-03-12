@@ -1,0 +1,8 @@
+Log Processing and Storage
+
+Use case: Applications generate logs stored in database → Python moves them to cloud storage for analytics.
+
+Example flow App logs → DB → Python script → Cloud storage → Data analytics
+Cloud services:
+    Amazon Web Services S3
+    Google Cloud Storage
